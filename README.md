@@ -1,7 +1,7 @@
 # Evolutionary-Strategy
 Pengembangan aplikasi evolutionary strategy
 
-Pengembang:
+Pengembang:<nl>
 Ida Bagus Nyoman Pascima
 15/388483/PPA/04922
 
