@@ -1,0 +1,20 @@
+D:\Belajar\ES Project\Evo\Evo\obj\Debug\Evo.main.resources
+D:\Belajar\ES Project\Evo\Evo\obj\Debug\Evo.Resources.resources
+D:\Belajar\ES Project\Evo\Evo\obj\Debug\Evo.vbproj.GenerateResource.Cache
+D:\Belajar\ES Project\Evo\Evo\bin\Debug\Evo.exe.config
+D:\Belajar\ES Project\Evo\Evo\bin\Debug\Evo.exe
+D:\Belajar\ES Project\Evo\Evo\bin\Debug\Evo.pdb
+D:\Belajar\ES Project\Evo\Evo\bin\Debug\Evo.xml
+D:\Belajar\ES Project\Evo\Evo\obj\Debug\Evo.exe
+D:\Belajar\ES Project\Evo\Evo\obj\Debug\Evo.xml
+D:\Belajar\ES Project\Evo\Evo\obj\Debug\Evo.pdb
+D:\Belajar\ES Project\Tugas\Project ES\Evo\Evo\bin\Debug\Evo.exe.config
+D:\Belajar\ES Project\Tugas\Project ES\Evo\Evo\obj\Debug\Evo.exe
+D:\Belajar\ES Project\Tugas\Project ES\Evo\Evo\obj\Debug\Evo.xml
+D:\Belajar\ES Project\Tugas\Project ES\Evo\Evo\obj\Debug\Evo.pdb
+D:\Belajar\ES Project\Tugas\Project ES\Evo\Evo\bin\Debug\Evo.exe
+D:\Belajar\ES Project\Tugas\Project ES\Evo\Evo\bin\Debug\Evo.pdb
+D:\Belajar\ES Project\Tugas\Project ES\Evo\Evo\bin\Debug\Evo.xml
+D:\Belajar\ES Project\Tugas\Project ES\Evo\Evo\obj\Debug\Evo.main.resources
+D:\Belajar\ES Project\Tugas\Project ES\Evo\Evo\obj\Debug\Evo.Resources.resources
+D:\Belajar\ES Project\Tugas\Project ES\Evo\Evo\obj\Debug\Evo.vbproj.GenerateResource.Cache
