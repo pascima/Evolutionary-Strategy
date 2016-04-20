@@ -1,14 +1,11 @@
 # Evolutionary-Strategy
 Pengembangan aplikasi evolutionary strategy
 
+##Tugas Computational Intelligence (Evolutionary-Strategy)  
 
-<dl>  
-  <dt>Pengembang:</dt>  
-  Ida Bagus Nyoman Pascima   
-  Tugas Computational Intelligence (Evolutionary-Strategy)   
-  15/388483/PPA/04922
-</dl>  
-
+####Pengembang:
+**Ida Bagus Nyoman Pascima**   
+**15/388483/PPA/04922**  
 
 Evolutionary-Strategy yang dikembangkan adalah pada kasus optimasi. Kasus ini diambil untuk memberikan solusi optimum dari permasalahan. Sebagai contoh permasalahannya ialah kasus pembuatan lemari dengan 3 kendala teknis.
 
